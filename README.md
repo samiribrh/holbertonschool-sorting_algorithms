@@ -22,9 +22,9 @@ This directory consists of files that contains scripts written in C and includes
 
 
 ### [sort.h](./sort.h)
-* 
-'''
-To use our functions you just need to include our header file "sort.h":
+* File containes the prototypes of all your functions and included libraries.
+```
+To use our functions you just need to include our header file "sort.h".
 ```
 
 
