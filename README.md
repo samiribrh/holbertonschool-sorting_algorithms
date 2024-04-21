@@ -20,13 +20,12 @@ This directory consists of files that contains scripts written in C and includes
 ### [3. Quick sort](./3-quick_sort.c)
 * Divides the array into smaller sub-arrays based on a pivot element, then recursively sorts these sub-arrays.
 
-```
-To use our functions you just need to include our header file "sort.h":
-```
+
 ### [sort.h](./sort.h)
 * 
-
-
+'''
+To use our functions you just need to include our header file "sort.h":
+```
 
 
 # Authors
